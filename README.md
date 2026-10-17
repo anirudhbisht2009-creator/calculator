@@ -33,6 +33,7 @@ int main() {
            printf("Error! Invalid operator.\n");
            return 1;
    }
+   printf("this what we cannot do now");
    // Display result
    printf("Result: %.2lf\n", result);
    return 0;
